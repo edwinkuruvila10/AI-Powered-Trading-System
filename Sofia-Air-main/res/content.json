@@ -1,0 +1,122 @@
+{
+  "main_title": {
+    "bg": "Sofia Air",
+    "en": "Sofia Air"
+  },
+  "statistics_title": {
+    "bg": "Диаграми",
+    "en": "Charts"
+  },
+  "reference_title": {
+    "bg": "Референтни стойности",
+    "en": "Reference values"
+  },
+  "ams_selector": {
+    "bg": "Изберете станции, за които да се показва замерването",
+    "en": "Select AMS stations"
+  },
+  "metric_selector": {
+    "bg": "Изберете показател",
+    "en": "Select metric"
+  },
+  "date_selector": {
+    "bg": "Изберете времеви период",
+    "en": "Select date"
+  },
+  "submit_button": {
+    "bg": "Покажи",
+    "en": "Show"
+  },
+  "click_message": {
+    "bg": "Покажи точна стойност",
+    "en": "Show more information"
+  },
+  "date_label": {
+    "bg": "Дата",
+    "en": "Date"
+  },
+  "station_label": {
+    "bg": "Станция",
+    "en": "Station"
+  },
+  "level_label": {
+    "bg": "Ниво",
+    "en": "Level"
+  },
+  "metric_label": {
+    "bg": "Показател",
+    "en": "Metric"
+  },
+  "count_label": {
+    "bg": "Брой наблюдения",
+    "en": "Count"
+  },
+  "map_subheading": {
+    "bg": "Карта на замерванията с цветови индикатор за спазване на нормата",
+    "en": "Map with pollution color indication"
+  },
+  "map_explaination": {
+    "bg": "Изберете дата, станции и показател, който да се визуализизира",
+    "en": "Select date, locations and metric to show"
+  },
+  "bubble_chart_label": {
+    "bg": "Мехурчеста диаграма",
+    "en": "Bubble chart"
+  },
+  "multiline_chart_label": {
+    "bg": "Линейна диаграма с наслагване с маркери",
+    "en": "Spline graph"
+  },
+  "area_chart_label": {
+    "bg": "Площна диаграма",
+    "en": "Area chart"
+  },
+  "scatterplot_label": {
+    "bg": "Точкова диаграма със средно",
+    "en": "Scatterplot with running mean"
+  },
+  "combined_chart_label": {
+    "bg": "Комбинирана диаграма",
+    "en": "Combined chart"
+  },
+  "particulate_matter_label": {
+    "bg": "Фини прахови частици",
+    "en": "Particulate matter"
+  },
+  "03_label": {
+    "bg": "Озон",
+    "en": "Ozone"
+  },
+  "SO2_label": {
+    "bg": "Серен диоксид",
+    "en": "Sulfur dioxide"
+  },
+  "NO2_label": {
+    "bg": "Азотен диоксид",
+    "en": "Nitrogen dioxide"
+  },
+  "CO_label": {
+    "bg": "Въглероден оксид",
+    "en": "Carbon monoxide"
+  },
+    "C6H6_label": {
+    "bg": "Бензен",
+    "en": "Benzene"
+  },
+    "NO_label": {
+    "bg": "Азотен оксид",
+    "en": "Nitrogen oxide"
+  },
+  "reference_subheading": {
+    "bg": "Референтни стойности, използвани при визуализацията",
+    "en": "Reference values used for visualization"
+  },
+  "reference_notes_subheading": {
+    "bg": "Забележки",
+    "en": "Notes"
+  },
+  "reference_notes_overall": {
+    "bg": "С цел по-добра визуализация, за посочените метрики, в някои диаграми, са използвани осреднените стойности за денонощие: \n - Озон (период на осредняване - 1 час) \n - Азотен оксид (период на осредняване - 1 година) \n - Азотен диоксид (период на осредняване - 1 година) \n - Бензен (период на осредняване - 1 година) \n - Въглероден оксид (период на осредняване - 8 часа) ",
+    "en": "To achieve better data visualization quality, for the following values the twenty-four hour mean is used in some charts: \n - Ozone (averaging period - 1 hour) \n - Nitrogen oxide (averaging period - 1 year) \n - Nitrogen dioxide (averaging period - 1 year) \n - Benzene (averaging period - 1 year) \n - Carbon monoxide (averaging period - 8 hours)"
+  }
+}
